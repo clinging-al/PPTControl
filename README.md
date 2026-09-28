@@ -1,3 +1,4 @@
+# PPTControl
 一款基于 AutoHotkey 的脚本，支持通过翻页笔控制 PPT 翻页，并在 PowerPoint 未处于前台时依然生效；可避免演讲者在台上演讲期间，因其他人拷贝 PPT 而导致翻页操作受影响。
 一款基于 AutoHotkey 的脚本，可控制 Hirender P1 播放上场音乐，并一键自动实现音乐渐响、渐弱。
 一款基于 AutoHotkey 的脚本，可通过快捷键控制 OBS 切换流程 PPT、嘉宾 PPT 和主 KV 场景，并支持使用 [ 和 ] 键后台翻页（无需 PPT 在前台），适合无控台场景，建议搭配采集卡硬件使用。
